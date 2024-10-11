@@ -1,0 +1,124 @@
+.darkMode {
+  background-color: #383838;
+  color: #ededed;
+}
+
+/* Header */
+.darkMode header {
+  border-bottom: #04c417 2px solid;
+  color: #04c417;
+  background-color: #262626;
+}
+
+/* Frontpage */
+.darkMode .frontPage {
+  color: #04c417;
+}
+
+.darkMode .frontPage form input {
+  background-color: black;
+  color: #04c417;
+}
+
+.darkMode .frontPage form button {
+  border-color: #808080;
+  background-color: #262626;
+  color: #04c417;
+}
+
+.darkMode .blueText {
+  color: #e60a0a;
+}
+
+/* Hamburgarmeny */
+.darkMode header nav ul {
+  background-color: #262626;
+}
+
+.darkMode header nav ul li a {
+  color: #04c417;
+}
+
+.darkMode header nav button {
+  background-color: #262626;
+}
+
+/* Main */
+.darkMode main {
+  color: #04c417;
+}
+
+/* Homepage */
+.darkMode main #home .homeText {
+  border-color: #383838;
+}
+
+/* Messageboard */
+.darkMode main #messageboard .messageField {
+  background-color: #262626;
+  border: #04c417 2px solid;
+}
+
+.darkMode main #messageboard .messageField .message {
+  background-color: black;
+  border-color: black;
+}
+
+.darkMode main #messageboard .messageInput {
+  border-left: #04c417 2px solid;
+  border-bottom: #04c417 2px solid;
+  border-right: #04c417 2px solid;
+  background-color: #262626;
+}
+
+.darkMode main #messageboard .messageInput form .messageTextInput {
+  background-color: black;
+  color: #04c417;
+}
+
+.darkMode main #messageboard .messageInput form .sendMessageBtn {
+  border: #808080 2px solid;
+  background-color: #262626;
+  color: #04c417;
+}
+
+/* About us */
+.darkMode main #aboutUs .aboutUsDiv .about img {
+  background-color: #383838;
+}
+
+/* Contact */
+.darkMode main #contact form .messageContactTextArea {
+  background-color: black;
+  color: #04c417;
+  border-color: #808080;
+}
+
+.darkMode main #contact form .contactPageButton {
+  border-color: #808080;
+  background-color: #262626;
+  color: #04c417;
+}
+
+/* Footer */
+.darkMode footer {
+  border-top: #04c417 2px solid;
+  color: #04c417;
+  background-color: #262626;
+}
+
+.darkMode footer .darkModeBtn {
+  color: black;
+}
+
+/* Anne-lie */
+.darkMode footer .muteBtn {
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  color: #04c417;
+}
+
+.darkMode .borderRight {
+  border-color: #04c417;
+}
